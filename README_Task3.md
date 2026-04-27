@@ -6,15 +6,16 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data-green?logo=pandas)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
-###Tasks Overview
+ ## Tasks Overview
 
-Task	   Title	                                   Status
-Task 1	Exploring and Visualizing the Iris Dataset	Complete
-Task 2	Predict Future Stock Prices	Complete
-Task 3	Heart Disease Prediction	Upcoming
-Task 4	General Health Query Chatbot	Upcoming
-Task 5	Mental Health Support Chatbot	Upcoming
-Task 6	House Price Prediction	Upcoming
+| Task | Title | Status |
+| :--- | :--- | :--- |
+| Task 1 | Exploring and Visualizing the Iris Dataset | Complete |
+| Task 2 | Predict Future Stock Prices | Complete |
+| Task 3 | Heart Disease Prediction | Complete |
+| Task 4 | General Health Query Chatbot | Upcomming |
+| Task 5 | Mental Health Support Chatbot | Upcoming |
+| Task 6 | House Price Prediction | Upcoming |
 
 ## Objective
 Build a classification model to predict whether a person is at risk of **heart disease** based on their health data.
