@@ -135,9 +135,14 @@ Build a classification model to predict whether a person is at risk of **heart d
 ---
 
 ## Author
-**Bilal Ahmed**
-BS-IT Student — KFUEIT, Rahim Yar Khan
+
+**[Bilal Ahmed]**
 AI/ML Engineering Intern — DevelopersHub Corporation
+
+-  Email: bilalahmadc.m56@gmail.com
+-  GitHub: [@BilalRajput-52](https://github.com/BilalRajput-52)
+-  LinkedIn: [linkedin.com/in/bilal-ahmed56ab](https://linkedin.com/in/bilal-ahmed56ab)
+
 
 ---
 
