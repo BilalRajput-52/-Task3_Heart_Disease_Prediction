@@ -1,4 +1,4 @@
-# ❤️ Task 3: Heart Disease Prediction
+#  Task 3: Heart Disease Prediction
 ### DevelopersHub Corporation — AI/ML Engineering Internship
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
@@ -8,12 +8,12 @@
 
 ---
 
-## 🎯 Objective
+## Objective
 Build a classification model to predict whether a person is at risk of **heart disease** based on their health data.
 
 ---
 
-## 📦 Dataset
+##  Dataset
 | Property | Details |
 |---|---|
 | Name | Heart Disease Train-Test Dataset (UCI) |
@@ -42,7 +42,7 @@ Build a classification model to predict whether a person is at risk of **heart d
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 - **Python 3.x**
 - **Pandas** — Data loading & preprocessing
 - **NumPy** — Numerical operations
@@ -51,7 +51,7 @@ Build a classification model to predict whether a person is at risk of **heart d
 
 ---
 
-## 📋 Steps Performed
+##  Steps Performed
 
 ### 1. Data Loading & Inspection
 - Loaded dataset using pandas
@@ -81,7 +81,7 @@ Build a classification model to predict whether a person is at risk of **heart d
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 ### Target Distribution
 ![Target Distribution](target_distribution.png)
@@ -106,7 +106,7 @@ Build a classification model to predict whether a person is at risk of **heart d
 
 ---
 
-## 🏆 Results
+##  Results
 
 | Model | Accuracy | AUC Score |
 |---|---|---|
@@ -115,7 +115,7 @@ Build a classification model to predict whether a person is at risk of **heart d
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 1. **Dataset** — 1025 patients, clean data, balanced classes
 2. **Top Features** — chest_pain_type, Max_heart_rate, thalassemia, vessels_colored_by_flourosopy
@@ -125,14 +125,14 @@ Build a classification model to predict whether a person is at risk of **heart d
 
 ---
 
-## 👤 Author
+## Author
 **Bilal Ahmed**
 BS-IT Student — KFUEIT, Rahim Yar Khan
 AI/ML Engineering Intern — DevelopersHub Corporation
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 ```
 Task3_Heart_Disease/
 ├── Task3_Heart_Disease_Prediction.ipynb
